@@ -1,0 +1,154 @@
+Arvi, Chincholi Cluster, Chincholi, Lt. Narayan Wagh High School
+Arvi, Chincholi Cluster, Hiwara, Shahu M Sec Ashram School
+Arvi, Chincholi Cluster, Hiwara, Shahu M. Pri. Ashram School
+Arvi, Chincholi Cluster, Harasi, Z.p. Pri. School
+Arvi, Chincholi Cluster, Jamkhuta, Z.p. Pri. School
+Arvi, Chincholi Cluster, Tanda (b), Z.p. Pri. School
+Arvi, Chincholi Cluster, Tanda (h), Z.p. Pri. School
+Arvi, Chincholi Cluster, Belhara, Z.p. Up Pri. School
+Arvi, Chincholi Cluster, Bedhona, Z.p. Up. Pri. School
+Arvi, Chincholi Cluster, Chincholi, Z.p. Up. Pri. School
+Arvi, Chincholi Cluster, Hiwara, Z.p. Up. Pri. School
+Arvi, Chincholi Cluster, Pachod (t), Z.p. Up.pri. School
+Arvi, Kasarkheda Cluster, Kasarkheda, Late. Annaji Mude Vidyalay
+Arvi, Kasarkheda Cluster, Malegaon (t), Smt. Ramdas Vidhyala
+Arvi, Kasarkheda Cluster, Borkhedi, Z.p. Pri. School
+Arvi, Kasarkheda Cluster, Bothali (m), Z.p. Pri. School
+Arvi, Kasarkheda Cluster, Malegaon (t), Z.p. Pri. School
+Arvi, Kasarkheda Cluster, Sawadh, Z.p. Pri. School
+Arvi, Kasarkheda Cluster, Sukali (u), Z.p. Pri. School
+Arvi, Kasarkheda Cluster, Madhana, Z.p. Up Pri. School
+Arvi, Kasarkheda Cluster, Kasarkheda, Z.p. Up. Pri. School
+Arvi, Kasarkheda Cluster, Natala (b), Z.p. Up. Pri. School
+Arvi, Khubgaon Cluster, Dahegaon (mu), Laxmi V. Vidhyalaya
+Arvi, Khubgaon Cluster, Adegaon, Mount Carmel English School
+Arvi, Khubgaon Cluster, Z. P. Kanya Pri. School
+Arvi, Khubgaon Cluster, Z. P. Urdu Pri. Kanya School
+Arvi, Khubgaon Cluster, Bajarwada, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Chondi, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Hardoli, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Lahadevi, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Pachegaon, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Sawalapur, Z.p. Pri. School
+Arvi, Khubgaon Cluster, Tanda (d), Z.p. Pri. School
+Arvi, Khubgaon Cluster, Dahegaon (mu), Z.p. Up. Pri. School
+Arvi, Khubgaon Cluster, Khubgaon, Z.p. Up. Pri. School
+Arvi, Nandpur Cluster, Deurwada, Model High School
+Arvi, Nandpur Cluster, Nandpur, Model High School
+Arvi, Nandpur Cluster, Takarkheda, Smt. Lahanuji M. Vidhyala
+Arvi, Nandpur Cluster, Deurwada, Z.p. Pri. School
+Arvi, Nandpur Cluster, Eklara, Z.p. Pri. School
+Arvi, Nandpur Cluster, Karmabad, Z.p. Pri. School
+Arvi, Nandpur Cluster, Ladegaon, Z.p. Pri. School
+Arvi, Nandpur Cluster, Mathoda (b), Z.p. Pri. School
+Arvi, Nandpur Cluster, Nandpur, Z.p. Pri. School
+Arvi, Nandpur Cluster, Tona, Z.p. Pri. School
+Arvi, Nandpur Cluster, Italapur, Z.p. Up. Pri. School
+Arvi, Nandpur Cluster, Takarkheda, Z.p. Up. Pri. School
+Arvi, Nandpur Cluster, Dhanodi (n), Z.p.pri. School
+Arvi, Nandpur Cluster, Rajapur, Z.p.pri. School
+Arvi, Panwadi Cluster, Panwadi, St. Laharibaba Vidhayalaya
+Arvi, Panwadi Cluster, Kakaddhara, Z.p. Lower Pri. School
+Arvi, Panwadi Cluster, Jambuldhara, Z.p. Pri. School
+Arvi, Panwadi Cluster, Pimpalgaon (b), Z.p. Pri. School
+Arvi, Panwadi Cluster, Sukali (u), Z.p. Pri. School
+Arvi, Panwadi Cluster, Talegaon (r), Z.p. Pri. School
+Arvi, Panwadi Cluster, Umari, Z.p. Pri. School
+Arvi, Panwadi Cluster, Ajangaon, Z.p. Up. Pri. School
+Arvi, Panwadi Cluster, Badod (s), Z.p. Up. Pri. School
+Arvi, Panwadi Cluster, Panwadi, Z.p. Up. Pri. School
+Arvi, Pipri Cluster, Dhanodi (b), Model High School
+Arvi, Pipri Cluster, Dhanodi (b), Z.p. Pri. Boys School
+Arvi, Pipri Cluster, Dhanodi (b), Z.p. Pri. Kanya School
+Arvi, Pipri Cluster, Bhadod (pun), Z.p. Pri. School
+Arvi, Pipri Cluster, Kawadi, Z.p. Pri. School
+Arvi, Pipri Cluster, Parghotan, Z.p. Pri. School
+Arvi, Pipri Cluster, Pipri, Z.p. Pri. School
+Arvi, Pipri Cluster, Pipri (punarwasan) Bhaipur, Z.p. Pri. School
+Arvi, Pipri Cluster, Pod (s), Z.p. Pri. School
+Arvi, Pipri Cluster, Sawangi, Z.p. Pri. School
+Arvi, Pipri Cluster, Wadgaon (p), Z.p. Pri. School
+Arvi, Pipri Cluster, Gavhankhedi, Z.p. Up.pri. School
+Arvi, Pipri Cluster, Pipri (punarwasan) Bhaipur, Z.p. Urdu Pri. School
+Arvi, Pipri Cluster, Pipri, Z.p. Urdu Pri.school
+Arvi, Rohna Cluster, Rohana, Dhyandeep English School
+Arvi, Rohna Cluster, Bothali (p), Govt. Sec. Ashram School
+Arvi, Rohna Cluster, Saldhara, Karunya Vidyalay
+Arvi, Rohna Cluster, Rohana, Lt. D. Wagh Kanya Vidhyalaya
+Arvi, Rohna Cluster, Rohana, Lt. K.g.wagh English Medium School
+Arvi, Rohna Cluster, Rohana, Lt.k.g. Wagh Junior Science College
+Arvi, Rohna Cluster, Rohana, Model High School
+Arvi, Rohna Cluster, Rohana, Z.p. Pri. Boys School
+Arvi, Rohna Cluster, Rohana, Z.p. Pri. Kanya School
+Arvi, Rohna Cluster, Bodhad, Z.p. Pri. School
+Arvi, Rohna Cluster, Choramba, Z.p. Pri. School
+Arvi, Rohna Cluster, Dighi (h), Z.p. Pri. School
+Arvi, Rohna Cluster, Gourkheda, Z.p. Pri. School
+Arvi, Rohna Cluster, Panjara (b), Z.p. Pri. School
+Arvi, Rohna Cluster, Pod (b), Z.p. Pri. School
+Arvi, Rohna Cluster, Saikheda, Z.p. Pri. School
+Arvi, Rohna Cluster, Saldhara, Z.p. Up Pri. School
+Arvi, Rohna Cluster, Bothali (p), Z.p. Up. Pri. School
+Arvi, Rohna Cluster, Rohana, Z.p. Urdu Pri. School
+Arvi, Virul Cluster, Krushnapur, Z P.new. Pri. School
+Arvi, Virul Cluster, Virul, Model High School
+Arvi, Virul Cluster, Virul, Nehru Vidhyalaya
+Arvi, Virul Cluster, Virul, Z.p. Pri. Boys School
+Arvi, Virul Cluster, Virul, Z.p. Pri. Kanya School
+Arvi, Virul Cluster, Ekburji, Z.p. Pri. School
+Arvi, Virul Cluster, Khairi (k), Z.p. Pri. School
+Arvi, Virul Cluster, Marda, Z.p. Pri. School
+Arvi, Virul Cluster, Pimpaldhari, Z.p. Pri. School
+Arvi, Virul Cluster, Rampur, Z.p. Pri. School
+Arvi, Virul Cluster, Wai, Z.p. Pri. School
+Arvi, Virul Cluster, Pachod (v), Z.p. Up. Pri. School
+Arvi, Virul Cluster, Tembhari, Z.p. Up. Pri. School
+Arvi, Virul Cluster, Parsodi, Z.p.pri. School
+Arvi, Wadhona Cluster, Pimpalkhuta, Dr. Devidas Karale Vidhyalaya
+Arvi, Wadhona Cluster, Wadhona, Model High School
+Arvi, Wadhona Cluster, Wadhona, Z.p. Pri. Kanya School
+Arvi, Wadhona Cluster, Chandni, Z.p. Pri. School
+Arvi, Wadhona Cluster, Gumgaon, Z.p. Pri. School
+Arvi, Wadhona Cluster, Kinhala (b), Z.p. Pri. School
+Arvi, Wadhona Cluster, Pimpalkhuta, Z.p. Pri. School
+Arvi, Wadhona Cluster, Taroda, Z.p. Pri. School
+Arvi, Wadhona Cluster, Wadhona, Z.p. Pri. School
+Arvi, Wadhona Cluster, Bothali (k), Z.p. Up. Pri. School
+Arvi, Wadhona Cluster, Wadhona, Z.p. Urdu Pri. School
+Arvi, Wardmaneri Cluster, Wardhmaneri, Andh Vidhya Mandir
+Arvi, Wardmaneri Cluster, Wardhmaneri, Asthivyang Vidhyalaya
+Arvi, Wardmaneri Cluster, Wardhmaneri, Gurukul English School
+Arvi, Wardmaneri Cluster, Wardhmaneri, Muk-badhir Vidhya Mandir
+Arvi, Wardmaneri Cluster, Jalgaon, Pragtik Vidya
+Arvi, Wardmaneri Cluster, Wardhmaneri, Sadguru Vidhya Mandir
+Arvi, Wardmaneri Cluster, Shirpur (bok), Urdu High School
+Arvi, Wardmaneri Cluster, Khanwadi, Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Kopara (n), Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Mandala, Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Maneri, Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Nandora (n), Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Partoda, Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Pimpala (n), Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Jalgaon, Z.p. Pri. School
+Arvi, Wardmaneri Cluster, Shirpur, Z.p. Up. Pri. School
+Arvi, Wardmaneri Cluster, Wardhmaneri, Z.p. Up. Pri. School
+Arvi, Wardmaneri Cluster, Shirpur, Z.p. Urdu Up. Pri. School
+Arvi, Wardmaneri Cluster, Jam, Z.p.pri.school
+Arvi, Wardmaneri Cluster, Khadaki, Z.p.pri.school
+Arvi, Wathoda Cluster, Borgaon (h), Bharatmata Vidyalay
+Arvi, Wathoda Cluster, Nimboli, Lt. Annaji Mude Secondary Ashram School
+Arvi, Wathoda Cluster, Nimboli, Lt. Annaji Mude Upper Primary Ashram School
+Arvi, Wathoda Cluster, Arvi, The Buddhist International School
+Arvi, Wathoda Cluster, Bhaipur (wathoda Pun), Z. P. Pri. School
+Arvi, Wathoda Cluster, Allipur, Z.p. Lower Pri. School
+Arvi, Wathoda Cluster, Ahirwada, Z.p. Pri. School
+Arvi, Wathoda Cluster, Haibatpur, Z.p. Pri. School
+Arvi, Wathoda Cluster, Nandora (k), Z.p. Pri. School
+Arvi, Wathoda Cluster, Nimboli, Z.p. Pri. School
+Arvi, Wathoda Cluster, Sarkaspur, Z.p. Pri. School
+Arvi, Wathoda Cluster, Wadhona (t), Z.p. Pri. School
+Arvi, Wathoda Cluster, Waghada, Z.p. Pri. School
+Arvi, Wathoda Cluster, Ambikapur, Z.p. Primary School
+Arvi, Wathoda Cluster, Antardoh, Z.p. Up. Pri. School
+Arvi, Wathoda Cluster, Borgaon (h), Z.p. Up. Pri. School
+Arvi, Wathoda Cluster, Neri, Z.p. Up. Pri. School
